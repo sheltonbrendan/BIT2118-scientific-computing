@@ -1,6 +1,15 @@
-# BIT 2118 Scientific Computing: Group Work (Tasks 2–20)
-
-Each task folder entry contains: original program, modified program (parameter change + new real-world case), saved output, and documentation (B–E).
+# BIT 2118 Scientific Computing: Group 6 
+GROUP MEMBERS 
+1. BRENDAN SHELTON BSCCS/2024/55872
+2. SAMUEL NJUGUNA BSCCS/2024/54633
+3. STEED MBUGUA BSCCS/2024/54025
+4. GEOFREY KAMAU BSCCS/2024/55984
+5. MASIKA KITONGO BSCCS/2024/55350
+6. PETER KAHUHU BSCCS/2024/52188
+7. KELVIN MBITHI BSCCS/2024/74824
+8. DENNIS NJUGUNA BSCCS/2024/74198
+9. DAVIS KARANJA BSCCS/2024/60358
+10. EDWIN RIOBA BSCCS/20204/50090  
 
 ## Structure
 ```
@@ -40,5 +49,3 @@ bash run_all.sh
 | 18 | Numerical Solution of ODEs Using SciPy | [docs](docs/Task_18_scipy_ode.md) | [code](code/Task_18_scipy_ode.py) | [extension](code/extensions/Task_18_extension.py) |
 | 19 | Numerical Optimization | [docs](docs/Task_19_optimization.md) | [code](code/Task_19_optimization.py) | [extension](code/extensions/Task_19_extension.py) |
 | 20 | Random Numbers and Monte Carlo Methods | [docs](docs/Task_20_monte_carlo.md) | [code](code/Task_20_monte_carlo.py) | [extension](code/extensions/Task_20_extension.py) |
-
-Notes: Task 1 is the self-paced prerequisite. Data in the extensions marked synthetic is illustrative, not measured.
