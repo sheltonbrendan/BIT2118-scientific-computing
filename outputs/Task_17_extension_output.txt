@@ -1,0 +1,10 @@
+k=0.12, h=5.0: Euler=25.2662 C, exact=26.7760 C, error=1.51e+00
+k=0.12, h=1.0: Euler=26.4041 C, exact=26.7760 C, error=3.72e-01
+k=0.12, h=0.1: Euler=26.7378 C, exact=26.7760 C, error=3.83e-02
+k=0.3, h=5.0: Euler=26.0156 C, exact=25.0080 C, error=1.01e+00
+k=0.3, h=1.0: Euler=25.0015 C, exact=25.0080 C, error=6.56e-03
+k=0.3, h=0.1: Euler=25.0070 C, exact=25.0080 C, error=1.03e-03
+k=0.5, h=5 (h*k=2.5 > 2): 765.39 C -> unstable oscillation
+R0 = 3.0
+Peak infected: 3067 people on day 39.5
+Final recovered after 160 days: 9436 (94.4% of population)

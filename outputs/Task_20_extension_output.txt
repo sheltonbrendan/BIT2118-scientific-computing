@@ -1,0 +1,11 @@
+capacity=1000, N=    1,000: estimate=10.1000% | exact=10.5650%
+capacity=1000, N=  100,000: estimate=10.6160% | exact=10.5650%
+capacity=1000, N=1,000,000: estimate=10.5702% | exact=10.5650%
+capacity=1100, N=    1,000: estimate=1.4000% | exact=1.8610%
+capacity=1100, N=  100,000: estimate=1.9120% | exact=1.8610%
+capacity=1100, N=1,000,000: estimate=1.8683% | exact=1.8610%
+pi estimate N=    1,000: 3.19600  (error 0.05441)
+pi estimate N=  100,000: 3.14476  (error 0.00317)
+pi estimate N=5,000,000: 3.14174  (error 0.00014)
+Project duration: mean=29.02 d, 5th-95th percentile=(23.0, 35.7) d
+P(duration > 30 days) = 38.63%

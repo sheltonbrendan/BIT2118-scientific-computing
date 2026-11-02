@@ -1,0 +1,18 @@
+       h   forward err   central err
+   1e-01     4.294e-02     9.001e-04
+   1e-02     4.216e-03     9.005e-06
+   1e-04     4.207e-05     9.004e-10
+   1e-08     2.970e-09     2.581e-09
+   1e-12     4.324e-05     1.227e-05
+t=0.0s v=0.00 m/s a=+0.70 m/s^2
+t=0.5s v=0.35 m/s a=+0.90 m/s^2
+t=1.0s v=0.90 m/s a=+1.15 m/s^2
+t=1.5s v=1.50 m/s a=+1.00 m/s^2
+t=2.0s v=1.90 m/s a=+0.50 m/s^2
+t=2.5s v=2.00 m/s a=+0.10 m/s^2
+t=3.0s v=2.00 m/s a=+0.00 m/s^2
+t=3.5s v=2.00 m/s a=-0.15 m/s^2
+t=4.0s v=1.85 m/s a=-0.70 m/s^2
+t=4.5s v=1.30 m/s a=-1.25 m/s^2
+t=5.0s v=0.60 m/s a=-1.40 m/s^2
+Peak acceleration: 1.15 m/s^2 at t=1.0s ; peak deceleration: -1.40 m/s^2 at t=5.0s

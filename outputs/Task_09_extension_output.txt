@@ -1,0 +1,7 @@
+original: lambda=2.5616, centrality=[0.2192 0.2808 0.2808 0.2192]
+with A-D link: lambda=3.0000, centrality=[0.25 0.25 0.25 0.25]
+Dominant eigenvalue of Google matrix: 1.0
+PageRank P1: 0.3725
+PageRank P2: 0.1958
+PageRank P3: 0.3941
+PageRank P4: 0.0375

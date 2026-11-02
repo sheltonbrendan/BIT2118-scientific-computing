@@ -1,0 +1,6 @@
+need=1000, costB=18: continuous A=0.000, B=5.882, cost=105.88 | integer (cost,A,B)=(108, 0, 6)
+need=2000, costB=18: continuous A=0.000, B=11.765, cost=211.76 | integer (cost,A,B)=(216, 0, 12)
+need=1000, costB=15: continuous A=0.000, B=5.882, cost=88.24 | integer (cost,A,B)=(90, 0, 6)
+Optimal mix: chairs=48.00, tables=24.00, max profit=4080.00
+Carpentry used: 240.0 h | Finishing used: 120.0 h
+Best whole-number plan (profit, chairs, tables): (4080, 48, 24)

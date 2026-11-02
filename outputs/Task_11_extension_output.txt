@@ -1,0 +1,7 @@
+cash flows [-10000, 3000, 3500, 4000, 2500]: IRR=11.5425%, iterations=4
+cash flows [-10000, 3000, 3500, 4000, 4500]: IRR=17.0937%, iterations=5
+Newton start x0=0.1: root=11.542461%, iterations=4
+Newton start x0=0.5: root=11.542461%, iterations=7
+Newton start x0=1.0: root=-154.411050%, iterations=6
+Monthly rate (secant): 1.204346% | iterations: 6
+Nominal annual rate: 14.4521% | Effective annual rate: 15.4489%

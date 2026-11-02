@@ -1,0 +1,5 @@
+R=1000: tau=1.0 s | V(tau)=3.161 V (63.2% of 5 V) | V(3 tau)=4.751 V | V(5 s)=4.966 V
+R=2000: tau=2.0 s | V(tau)=3.161 V (63.2% of 5 V) | V(3 tau)=4.751 V | V(5 s)=4.590 V
+c=   1000 N s/m: damping ratio=0.06, min displacement=-0.0831 m, 2% settling time=4.00 s
+c=   6000 N s/m: damping ratio=0.35, min displacement=-0.0305 m, 2% settling time=1.55 s
+c=  20000 N s/m: damping ratio=1.18, min displacement=+0.0000 m, 2% settling time=1.09 s

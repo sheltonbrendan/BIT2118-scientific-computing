@@ -1,0 +1,6 @@
+right=20, tol=1e-08: Jacobi 150 it, Gauss-Seidel 75 it, GS error vs direct 2.89e-08
+right=60, tol=1e-08: Jacobi 152 it, Gauss-Seidel 77 it, GS error vs direct 2.48e-08
+right=20, tol=1e-04: Jacobi 86 it, Gauss-Seidel 43 it, GS error vs direct 2.88e-04
+Rod (30 nodes): Jacobi 2604 it, Gauss-Seidel 1296 it
+Temperatures at nodes 1, 15, 30 (GS): [96.774 51.613  3.226]
+Exact at nodes 1, 15, 30: [96.774 51.613  3.226]

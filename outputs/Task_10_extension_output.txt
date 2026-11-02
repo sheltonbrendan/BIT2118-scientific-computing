@@ -1,0 +1,8 @@
+coefficient=10: equilibrium T = 27.525211 C
+coefficient=20: equilibrium T = 29.561521 C
+bracket [20,40]: root=27.525211, iterations=30
+bracket [20,100]: root=27.525211, iterations=32
+bracket [26,28]: root=27.525211, iterations=27
+Break-even in [100,400]: q=210.1021 units (34 iterations), profit there=-0.000000
+Break-even in [1000,1400]: q=1189.8979 units (35 iterations), profit there=0.000000
+Exact (quadratic formula): [1189.8979  210.1021]

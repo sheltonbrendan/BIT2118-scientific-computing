@@ -1,0 +1,4 @@
+diag=4.0: solution for b=[15,10,10] -> [5. 5. 5.]
+diag=6.0: solution for b=[15,10,10] -> [2.929  2.574  2.5148]
+Repeated solve: 0.6321s | LU reuse: 0.0188s | speed-up 33.5x
+Max difference between methods: 0.0

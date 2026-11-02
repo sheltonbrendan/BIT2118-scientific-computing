@@ -1,0 +1,7 @@
+approx=1.414: abs error=2.14e-04, rel error=0.0151%
+approx=1.4142: abs error=1.36e-05, rel error=0.0010%
+approx=1.41421356: abs error=2.37e-09, rel error=0.0000%
+Float sum: 99.9999999999986 | Equal to 100.0: False | isclose: True
+Error: 1.4068746168049984e-12
+Decimal sum: 100.00
+Integer-cents sum: 100.0

@@ -1,0 +1,4 @@
+New totals -> Type A, Type B: [5. 3.]
+Mesh currents I1,I2,I3 (A): [ 1.31    0.2749 -0.6469]
+Residual norm: 6.661338147750939e-16
+Condition number: 3.001

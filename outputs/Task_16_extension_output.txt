@@ -1,0 +1,7 @@
+peak=1.8 kW: trapezoid=15.700, Simpson=15.800 kWh
+peak=3.0 kW: trapezoid=18.100, Simpson=19.000 kWh
+ 4 samples: trapezoid=2,908,246 (err 76,813) | Simpson=3,001,777 (err 16,717) m^3
+ 7 samples: trapezoid=2,966,123 (err 18,936) | Simpson=2,985,415 (err 356) m^3
+13 samples: trapezoid=2,980,341 (err 4,718) | Simpson=2,985,081 (err 22) m^3
+25 samples: trapezoid=2,983,881 (err 1,178) | Simpson=2,985,061 (err 1) m^3
+Exact volume: 2,985,059 m^3
